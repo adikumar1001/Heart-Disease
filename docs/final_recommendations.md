@@ -1,7 +1,7 @@
 ﻿# Final Recommendations (Template)
 
 ## Findings (fill with your dashboard numbers)
-- Overall heart disease prevalence is X%.
+- Overall heart disease prevalence is 9%.
 - Biggest risk lifts are seen for HighBP/Diabetes/Stroke and older age groups.
 - Access barriers (NoDocbcCost) show worse outcomes and higher prevalence.
 
