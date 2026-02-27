@@ -1,4 +1,4 @@
--- 03_marts_prevalence.sql (OK)
+-- 03_marts_prevalence.sql
 DROP TABLE IF EXISTS mart.prevalence_overview;
 CREATE TABLE mart.prevalence_overview AS
 SELECT

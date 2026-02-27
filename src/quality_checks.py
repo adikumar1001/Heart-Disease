@@ -1,4 +1,4 @@
-﻿"""Data quality checks. Writes markdown report."""
+﻿"""Data quality checks."""
 import argparse
 from pathlib import Path
 from sqlalchemy import create_engine, text

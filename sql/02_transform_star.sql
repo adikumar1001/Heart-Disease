@@ -1,4 +1,4 @@
--- 02_transform_star.sql (SAFE FIX)
+-- 02_transform_star.sql 
 TRUNCATE TABLE brfss.fact_health_indicators RESTART IDENTITY;
 
 WITH cleaned AS (

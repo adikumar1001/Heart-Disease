@@ -6,7 +6,7 @@ from sqlalchemy import create_engine, text
 STAGING_SCHEMA = "brfss"
 STAGING_TABLE = "stg_heart_raw"
 
-# lowercase expected columns (matches how Postgres stored your table)
+# lowercase expected columns (matches how Postgres stored the table)
 EXPECTED_COLS = [
     "heartdiseaseorattack","highbp","highchol","cholcheck","bmi","smoker","stroke",
     "diabetes","physactivity","fruits","veggies","hvyalcoholconsump","anyhealthcare",

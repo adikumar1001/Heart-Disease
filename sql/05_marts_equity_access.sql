@@ -1,4 +1,4 @@
--- 05_marts_equity_access.sql (OK)
+-- 05_marts_equity_access.sql 
 DROP TABLE IF EXISTS mart.equity_gaps;
 CREATE TABLE mart.equity_gaps AS
 WITH seg AS (

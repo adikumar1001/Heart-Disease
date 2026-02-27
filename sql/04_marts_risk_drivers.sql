@@ -1,4 +1,4 @@
--- 04_marts_risk_drivers.sql (OK)
+-- 04_marts_risk_drivers.sql 
 DROP TABLE IF EXISTS mart.risk_factor_impact;
 CREATE TABLE mart.risk_factor_impact AS
 WITH base AS (

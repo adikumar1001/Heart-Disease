@@ -1,4 +1,4 @@
--- 00_schema.sql (FIXED)
+-- 00_schema.sql
 CREATE SCHEMA IF NOT EXISTS brfss;
 CREATE SCHEMA IF NOT EXISTS mart;
 
